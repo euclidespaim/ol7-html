@@ -52,3 +52,22 @@
 .neighborhood-guides .container p {
   font-size: 10px;
 }
+
+.row .col-md-6 {
+  background-color: ;
+
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: justify;
+}
+
+.footer p {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
+  text-align: center;
+}
