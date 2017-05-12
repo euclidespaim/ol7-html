@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bilhete>
+<data>
+  <dia>12</dia>
+  <mês>11</mês>
+  <ano>2002</ano>
+</data>
+<para>José</para>
+<de>Maria</de>
+<título>Lembrete</título>
+<corpo>Não me esqueça neste fim-de-semana!</corpo>
+</bilhete>

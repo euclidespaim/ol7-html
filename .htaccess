@@ -1,0 +1,15 @@
+<files *.html>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.php>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.dcm>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.htm>
+SetOutputFilter DEFLATE
+</files>
